@@ -1,5 +1,7 @@
 # hello-java
 
+Yadda yadda
+
 A simple hello world Java app with some coding errors for testing with Coverity and Polaris
 
 Build Commands
